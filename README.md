@@ -8,7 +8,7 @@
 - 💬 Ask me about **WordPress**.
 - ⚡ Fun fact: I spend almost 5-6 hours learning everyday.
 - 👯 Open source contributor.
-- 📫 How to reach me? Visit here - https://saifullah.co
+- 📫 How to reach me? Visit here - 
 
 <br/>
 

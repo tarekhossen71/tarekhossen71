@@ -2,7 +2,7 @@
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 Working on wordpress themes for wordpress.org
+- 🔭 Working on wordpress themes Development
 - 🌱 Currently learning Full Stack WordPress Development.
 - 👯 Looking to collaborate on projects & tech articles.
 - 💬 Ask me about **WordPress**.

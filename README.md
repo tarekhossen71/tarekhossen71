@@ -4,7 +4,6 @@
 
 - 🔭 Learning themes Development
 - 🌱 Currently learning Full Stack WordPress Development.
-- 👯 Looking to collaborate on projects & tech articles.
 - 💬 Ask me about **WordPress**.
 - ⚡ Fun fact: I spend almost 5-6 hours learning everyday.
 - 👯 Open source contributor.

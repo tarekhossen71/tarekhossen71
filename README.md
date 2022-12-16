@@ -2,9 +2,9 @@
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 Learning wordpress themes Development
-- 🌱 Currently learning Full Stack WordPress Development.
-- 💬 Ask me about **WordPress**.
+- 🔭 Learning Laravel.
+- 🌱 Currently learning Laravel Development.
+- 💬 Ask me about **WordPress, Laravel**.
 - ⚡ Fun fact: I spend almost 5-6 hours learning everyday.
 - 👯 Open source contributor.
 - 📫 How to reach me? Visit here - 

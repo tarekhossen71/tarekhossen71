@@ -3,8 +3,8 @@
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 Learning Laravel.
-- 🌱 Currently learning Laravel Development.
-- 💬 Ask me about **WordPress, Laravel**.
+- 🌱 Currently working as a Laravel Developer.
+- 💬 Ask me about **Laravel**.
 - ⚡ Fun fact: I spend almost 5-6 hours learning everyday.
 - 👯 Open source contributor.
 - 📫 How to reach me? Visit here - 

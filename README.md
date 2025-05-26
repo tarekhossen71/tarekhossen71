@@ -44,18 +44,6 @@ I’m **Tarek Hossen**, a passionate and self-driven **Laravel Developer** based
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tarekhossen111&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tarekhossen111&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🚀 Projects
 
 Here are a few projects I've worked on or am currently building:

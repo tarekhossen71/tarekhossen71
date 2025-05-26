@@ -12,7 +12,6 @@ I’m **Tarek Hossen**, a passionate and self-driven **Laravel Developer** based
 
 - 🔭 Currently working as a **Full-time Laravel Developer**
 - 🌱 Actively learning advanced **Laravel**, **DevOps basics**, **CI/CD pipelines**, and **Docker**
-- 🧰 Exploring tools like Laravel Forge, Envoyer, GitHub Actions, and RESTful API development
 - 💬 Open to discussions about Laravel architecture, API design, or developer best practices
 - 🧑‍🤝‍🧑 Open source contributor – I love giving back to the community!
 - 📚 I dedicate 5–6 hours daily to learning, building side projects, or contributing

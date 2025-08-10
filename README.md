@@ -25,6 +25,7 @@ I’m **Tarek Hossen**, a passionate and self-driven **Laravel Developer** based
 - PHP (Laravel)
 - JavaScript (ES6+, jQuery)
 - HTML5, CSS3, Tailwind CSS, Bootstrap
+- React.js, Next.js, Vue.js
 
 **Databases:**
 - MySQL
@@ -65,6 +66,6 @@ Feel free to reach out for collaboration, freelance work, or just a friendly hel
 
 ## ✨ Quote I Live By
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> “Code is like humor. When you have to explain it, it’s bad.”
 
 ---
